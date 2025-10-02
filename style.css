@@ -18,3 +18,19 @@ body {
   padding: 5px 30px;
 }
 h1,h2,h3,p,ul,a {color: #cf0909;}
+
+#navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+#navbar ul li a {
+    padding: 10px;
+    margin: 0 4px;
+}
+
+#navbar ul li a:hover {
+    background-color: #93cb52;
+    border-radius: 5px;
+}
