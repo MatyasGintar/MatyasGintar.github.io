@@ -55,7 +55,7 @@ h1,h2,h3,p,ul,a {color: #cf0909;}
     body {
         background-color: red;
     }
-    #texty {
+    .texty {
       display: none;
       
     }
