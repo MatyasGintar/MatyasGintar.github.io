@@ -27,7 +27,7 @@ body {
   padding: 2px 30px;
 }
 
-h1,h2,h3,p,ul,a {color: #cf0909;}
+h1,h2,p,ul,a {color: #cf0909;}
 
 #navbar ul {
     display: flex;
